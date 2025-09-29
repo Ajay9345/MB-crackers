@@ -608,14 +608,14 @@ export const PRODUCTS = [
     "image": "/images/shots.jpg",
     "desc": "25 ஷோட்ஸ் மிட் னரடர் 1 BOX"
   },
-  {
-    "id": "p74",
-    "name": "25 Shot Whistling",
-    "price": null,
-    "category": "Repeating Multicolour Shots",
-    "image": "/images/shots.jpg",
-    "desc": "25 ஷோட்ஸ் ெிசிைிங் No stock"
-  },
+  //{
+   // "id": "p74",
+    //"name": "25 Shot Whistling",
+    //"price": null,
+   // "category": "Repeating Multicolour Shots",
+   // "image": "/images/shots.jpg",
+   // "desc": "25 ஷோட்ஸ் ெிசிைிங் No stock"
+  //},
   {
     "id": "p75",
     "name": "50 Shot Multi Colour",
@@ -632,14 +632,14 @@ export const PRODUCTS = [
     "image": "/images/shots.jpg",
     "desc": "30 ஷோட்ஸ் மல்டி கைர் 1 BOX"
   },
-  {
-    "id": "p77",
-    "name": "30 Shot Multi Colour UV",
-    "price": null,
-    "category": "Repeating Multicolour Shots",
-    "image": "/images/shots.jpg",
-    "desc": "30 ஷோட்ஸ் மல்டி கைர் UV No stock"
-  },
+  //{
+   // "id": "p77",
+   // "name": "30 Shot Multi Colour UV",
+    //"price": null,
+    //"category": "Repeating Multicolour Shots",
+    //"image": "/images/shots.jpg",
+    //"desc": "30 ஷோட்ஸ் மல்டி கைர் UV No stock"
+  //},
   {
     "id": "p78",
     "name": "60 Shot Multi Colour",
@@ -648,14 +648,14 @@ export const PRODUCTS = [
     "image": "/images/shots.jpg",
     "desc": "60 ஷோட்ஸ் மல்டி கைர் 1 BOX"
   },
-  {
-    "id": "p79",
-    "name": "60 Shot Multi Colour UV",
-    "price": null,
-    "category": "Repeating Multicolour Shots",
-    "image": "/images/shots.jpg",
-    "desc": "60 ஷோட்ஸ் மல்டி கைர் UV No stock"
-  },
+  //{
+   // "id": "p79",
+    //"name": "60 Shot Multi Colour UV",
+   // "price": null,
+    //"category": "Repeating Multicolour Shots",
+   // "image": "/images/shots.jpg",
+   // "desc": "60 ஷோட்ஸ் மல்டி கைர் UV No stock"
+  //},
   {
     "id": "p80",
     "name": "120 Shot Multi Colour",
@@ -664,14 +664,14 @@ export const PRODUCTS = [
     "image": "/images/shots.jpg",
     "desc": "120 ஷோட்ஸ் மல்டி கைர் 1 BOX"
   },
-  {
-    "id": "p81",
-    "name": "120 Shot Multi Colour UV",
-    "price": null,
-    "category": "Repeating Multicolour Shots",
-    "image": "/images/shots.jpg",
-    "desc": "120 ஷோட்ஸ் மல்டி கைர் UV No stock"
-  },
+  //{
+    //"id": "p81",
+   // "name": "120 Shot Multi Colour UV",
+    //"price": null,
+   // "category": "Repeating Multicolour Shots",
+   // "image": "/images/shots.jpg",
+    //"desc": "120 ஷோட்ஸ் மல்டி கைர் UV No stock"
+ // },
   {
     "id": "p82",
     "name": "240 Shot Multi Colour",
@@ -680,14 +680,14 @@ export const PRODUCTS = [
     "image": "/images/shots.jpg",
     "desc": "240 ஷோட்ஸ் மல்டி கைர் 1 BOX"
   },
-  {
-    "id": "p83",
-    "name": "240 Shot Multi Colour UV",
-    "price": null,
-    "category": "Repeating Multicolour Shots",
-    "image": "/images/shots.jpg",
-    "desc": "240 ஷோட்ஸ் மல்டி கைர் UV No stock"
-  },
+  //{
+    //"id": "p83",
+    //"name": "240 Shot Multi Colour UV",
+    //"price": null,
+    //"category": "Repeating Multicolour Shots",
+    //"image": "/images/shots.jpg",
+    //"desc": "240 ஷோட்ஸ் மல்டி கைர் UV No stock"
+  //},
   {
     "id": "p84",
     "name": "Mini Pearl (5pcs)",
@@ -1299,7 +1299,7 @@ export const PRODUCTS = [
   {
     "id": "p157",
     "name": "1K Likes",
-    "price": null,
+    "price": 200,
     "category": "Festival Stars",
     "image": "/images/stars.jpg",
     "desc": "1K ஸ்டார் 1 BOX"
@@ -1307,7 +1307,7 @@ export const PRODUCTS = [
   {
     "id": "p158",
     "name": "2K Likes",
-    "price": null,
+    "price": 350,
     "category": "Festival Stars",
     "image": "/images/stars.jpg",
     "desc": "2K ஸ்டார் 1 BOX"
@@ -1315,7 +1315,7 @@ export const PRODUCTS = [
   {
     "id": "p159",
     "name": "5K Likes",
-    "price": null,
+    "price": 800,
     "category": "Festival Stars",
     "image": "/images/stars.jpg",
     "desc": "5K ஸ்டார் 1 BOX"
@@ -1323,7 +1323,7 @@ export const PRODUCTS = [
   {
     "id": "p160",
     "name": "10K Likes",
-    "price": null,
+    "price": 1500,
     "category": "Festival Stars",
     "image": "/images/stars.jpg",
     "desc": "10K ஸ்டார் 1 BOX"
